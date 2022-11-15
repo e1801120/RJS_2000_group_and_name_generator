@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700&display=swap');
+::-webkit-input-placeholder {
+    font-style: italic;
+    color: red; 
+}
+:-moz-placeholder {
+    font-style: italic;
+    color: red;  
+}
+::-moz-placeholder {
+    font-style: italic;  
+    color: red; 
+}
+:-ms-input-placeholder {  
+    font-style: italic; 
+    color: red; 
+}
+body {
+    background-image: url("https://wallpaper.dog/large/11027705.jpg");    
+    background-repeat: no-repeat;
+    font-family: Raleway,sans-serif!important;
+    font-weight: 500;
+    position: relative;
+    font-size: 1.3rem;
+    color: white;
+}
+.content {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-size: 3.5rem;
+}
+.app {
+    background-color: rgba(255, 255, 255, 0.07);
+    border-radius: 20px;
+    padding: 46px;
+    margin: 60px 0px 0px 0px;
+}
+.heading {
+    padding: 0px 0px 16px 0px;
+}
+.heading, a, a:hover, a:active, a:visited {
+     color: white; 
+}
+.rating {
+    font-size: 14px;
+}
+.input-area {
+    background-color: rgba(212, 212, 212, 0.296);
+    padding: 16px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.name-bucket {
+    background-color: rgba(212, 212, 212, 0.153);
+    padding: 16px;
+    color: red;
+}
+.button-container {
+    padding: 16px 16px 20px 16px;
+}
+#randomized-bucket {
+    background-color: rgba(212, 212, 212, 0.153);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 16px;
+    color: red;
+}
+a:link { 
+    color: red; 
+}
+a:visited { 
+    color: red; 
+}
+.button, .button-30{
+    color: red;
+}
+
